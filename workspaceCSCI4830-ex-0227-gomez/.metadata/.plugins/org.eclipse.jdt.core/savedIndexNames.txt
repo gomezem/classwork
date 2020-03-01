@@ -1,0 +1,21 @@
+INDEX VERSION 1.131+C:\Users\emgno\Documents\UNO Courses\5.0_SP2020\Software Engineering\4830\ex\workspaceCSCI4830-ex-0227-gomez\.metadata\.plugins\org.eclipse.jdt.core
+1233919542.index
+3224980678.index
+144380394.index
+897659091.index
+2899478204.index
+3852737441.index
+3421597620.index
+1942359185.index
+202638269.index
+1860485910.index
+1943575548.index
+3227056335.index
+1241298325.index
+3263897811.index
+1401678300.index
+531533494.index
+2282926330.index
+2492909726.index
+1845031563.index
+4212195811.index

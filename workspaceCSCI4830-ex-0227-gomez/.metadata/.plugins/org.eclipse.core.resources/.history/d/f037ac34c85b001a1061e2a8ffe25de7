@@ -1,0 +1,8 @@
+
+public aspect TraceAspectGomez {
+	
+	String getName() {
+		return name;
+	}
+
+}
